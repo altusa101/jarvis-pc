@@ -1,0 +1,12 @@
+pyttsx3
+pyaudio
+vosk
+requests
+openai
+python-dotenv
+psutil
+keyboard
+sounddevice
+numpy
+# optional if you use porcupine:
+pvporcupine
